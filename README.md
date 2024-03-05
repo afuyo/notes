@@ -8,3 +8,5 @@
 # Hypergraphs
 - [Knowledge Hypergraphs and ORM](https://towardsdatascience.com/knowledge-hypergraphs-object-role-modeling-ef0f58f38066)
 -  [Rethinking Hypergraphs](https://www.linkedin.com/pulse/rethinking-hypergraphs-kurt-cagle-n2oec/?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
+# API Design
+- [Your data model is not an api](https://tyk.io/blog/your-data-model-is-not-an-api/)
