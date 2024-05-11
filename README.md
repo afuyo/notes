@@ -14,6 +14,8 @@
 - https://www.dremio.com/blog/data-lakehouse-versioning-comparison-nessie-apache-iceberg-lakefs/
 # Iceberg
 - https://medium.com/@ajanthabhat/how-not-to-use-apache-iceberg-046ae7e7c884
+# Data Quadrant
+- https://prudenza.typepad.com/dwh/2013/08/4-quadrant-model-for-data-deployment.html
 
 # Slask
 - [Wrangling JSON Arrays: Zed vs SQL](https://www.brimdata.io/blog/wrangling-json-arrays-with-zed/)
