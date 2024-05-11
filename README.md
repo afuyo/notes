@@ -12,6 +12,8 @@
 - [Your data model is not an api](https://tyk.io/blog/your-data-model-is-not-an-api/)
 # Data versioning 
 - https://www.dremio.com/blog/data-lakehouse-versioning-comparison-nessie-apache-iceberg-lakefs/
+# Iceberg
+- https://medium.com/@ajanthabhat/how-not-to-use-apache-iceberg-046ae7e7c884
 
 # Slask
 - [Wrangling JSON Arrays: Zed vs SQL](https://www.brimdata.io/blog/wrangling-json-arrays-with-zed/)
