@@ -10,6 +10,8 @@
 -  [Rethinking Hypergraphs](https://www.linkedin.com/pulse/rethinking-hypergraphs-kurt-cagle-n2oec/?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
 # API Design
 - [Your data model is not an api](https://tyk.io/blog/your-data-model-is-not-an-api/)
+# Data versioning 
+- https://www.dremio.com/blog/data-lakehouse-versioning-comparison-nessie-apache-iceberg-lakefs/
 
 # Slask
 - [Wrangling JSON Arrays: Zed vs SQL](https://www.brimdata.io/blog/wrangling-json-arrays-with-zed/)
