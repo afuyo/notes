@@ -19,3 +19,7 @@
 
 # Slask
 - [Wrangling JSON Arrays: Zed vs SQL](https://www.brimdata.io/blog/wrangling-json-arrays-with-zed/)
+# Metrics
+- https://moderndata101.substack.com/p/data-products-speak-revenue-how
+- Metric trees Tim https://miro.com/app/board/uXjVKZRr5oE=/
+- Metric tree Abhi https://miro.com/app/board/uXjVNq48sQI=/
