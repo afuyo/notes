@@ -23,3 +23,6 @@
 - https://moderndata101.substack.com/p/data-products-speak-revenue-how
 - Metric trees Tim https://miro.com/app/board/uXjVKZRr5oE=/
 - Metric tree Abhi https://miro.com/app/board/uXjVNq48sQI=/
+
+# Data Engineering
+- Data Enigneering Handbook https://github.com/DataExpert-io/data-engineer-handbook
